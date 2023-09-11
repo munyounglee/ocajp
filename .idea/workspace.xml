@@ -4,20 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4672052-123f-4845-a2f9-c823fa1381ca" name="Changes" comment="기초세팅 &amp; 4번">
-      <change afterPath="$PROJECT_DIR$/src/question10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question17/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question17/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/question7.java" afterDir="false" />
+    <list default="true" id="e4672052-123f-4845-a2f9-c823fa1381ca" name="Changes" comment="1~30번까지">
+      <change afterPath="$PROJECT_DIR$/src/question30/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question30/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question40.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,37 +55,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.question29">
-    <configuration name="question19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="question19" />
+  <component name="RunManager" selected="Application.question40">
+    <configuration name="question31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="question31" />
       <module name="ocajp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="question20" />
+    <configuration name="question34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="question34" />
       <module name="ocajp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="question27" />
+    <configuration name="question35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="question35" />
       <module name="ocajp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="question28" />
+    <configuration name="question39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="question39" />
       <module name="ocajp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="question29" />
+    <configuration name="question40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="question40" />
       <module name="ocajp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.question29" />
-        <item itemvalue="Application.question28" />
-        <item itemvalue="Application.question27" />
-        <item itemvalue="Application.question20" />
-        <item itemvalue="Application.question19" />
+        <item itemvalue="Application.question40" />
+        <item itemvalue="Application.question39" />
+        <item itemvalue="Application.question35" />
+        <item itemvalue="Application.question34" />
+        <item itemvalue="Application.question31" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694329279885</updated>
-      <workItem from="1694329280909" duration="10995000" />
+      <workItem from="1694329280909" duration="14460000" />
     </task>
     <task id="LOCAL-00001" summary="기초세팅 &amp; 4번">
       <option name="closed" value="true" />
@@ -125,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694330953882</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1~30번까지">
+      <option name="closed" value="true" />
+      <created>1694364590882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694364590882</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +135,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="기초세팅 &amp; 4번" />
-    <option name="LAST_COMMIT_MESSAGE" value="기초세팅 &amp; 4번" />
+    <MESSAGE value="1~30번까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="1~30번까지" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
